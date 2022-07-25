@@ -8,6 +8,9 @@ public class Progect1 {
 		System.out.println("poorna");
 		System.out.println("priya");
 		System.out.println("amar");
+		System.out.println("poorna");
+		System.out.println("priya");
+		System.out.println("amar");
 		
 		
 		
